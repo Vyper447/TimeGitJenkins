@@ -25,7 +25,7 @@ public class Time
 		int totalSeconds = getTotalSeconds("10:10:10");
 		System.out.println("**GH Total Seconds ="+totalSeconds);
 		}
-		/*try
+		/*
 		{
 			
 		String time = JOptionPane.showInputDialog(null,
